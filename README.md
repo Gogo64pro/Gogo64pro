@@ -1,3 +1,6 @@
+
+Hi :)
+
 <!-- - 👋 Hi, I’m @Gogo64pro
 - 👀 I’m interested in JavaScript,C++,Discord.js
 - 💔 I'm not interested in Python at all
